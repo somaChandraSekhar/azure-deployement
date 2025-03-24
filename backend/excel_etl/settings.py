@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-eilr00z(kvb-7vcb#*3i4=wzk!=omjm_1+042(pu6kj*+8(yw!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["django-react-webapp.azurewebsites.net"]
 
 
 # Application definition
